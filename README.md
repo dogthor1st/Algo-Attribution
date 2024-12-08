@@ -19,3 +19,14 @@ N° Groupe,[Sujet 1],[Sujet 2],[Sujet 3],[Sujet 4]
 2,3,4,1,2
 3,4,1,2,3
 ```
+## Dépendances
+- Python 3.x
+- Bibliothèques :
+    - `scipy`
+    - `pandas`
+    - `numpy`
+
+## Commandes
+```Bash
+python main.py
+```
